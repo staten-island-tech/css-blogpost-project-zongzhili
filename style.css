@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(35, 249, 224);
+    background-color: rgb(150, 232, 223);
 }
 body
 * {
@@ -20,4 +20,22 @@ img{
 }
 p{
     text-align: center;
+}
+.restaurant1{
+    background-color: rgb(138, 224, 32);
+    width: 40%;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.restaurant2{
+    background-color: beige;
+    width: 40%;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.restaurant3{
+    background-color: rgb(191, 71, 71);
+    width: 40%;
+    margin: 0 auto;
+    border: 2px solid black;
 }
